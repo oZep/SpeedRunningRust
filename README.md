@@ -7,8 +7,8 @@ Following this documentation: https://doc.rust-lang.org/stable/book/title-page.h
 
 
 ### Cargo 
->               $ cargo new <FileName>
+>$ cargo new <FileName>
 
->               cd <FileName
+>$ cd <FileName
 
->               cargo build
+>$ cargo build
