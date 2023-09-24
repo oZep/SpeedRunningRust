@@ -7,13 +7,13 @@ Following this documentation: https://doc.rust-lang.org/stable/book/title-page.h
 Cargo is a build in Rust package manager
 
 Make a new Cargo Project 
-                $ cargo new <FileName>
+```$ cargo new <FileName>```
 
 Navigate to it's directory
-                $ cd <FileName>
+```$ cd <FileName>```
 
 Compile your Build using this command
-                $ cargo build
+```$ cargo build```
 
 Run your Build using
-                $ #
+```$ #```
