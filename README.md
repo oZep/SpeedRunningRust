@@ -3,12 +3,17 @@
 Following this documentation: https://doc.rust-lang.org/stable/book/title-page.html
 
 
-
-
-
 ### Cargo 
->$ cargo new <FileName>
+Cargo is a build in Rust package manager
 
->$ cd <FileName
+Make a new Cargo Project 
+                $ cargo new <FileName>
 
->$ cargo build
+Navigate to it's directory
+                $ cd <FileName>
+
+Compile your Build using this command
+                $ cargo build
+
+Run your Build using
+                $ #
