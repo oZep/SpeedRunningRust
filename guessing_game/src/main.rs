@@ -26,7 +26,8 @@ fn main() {
             // &mut makes reference to the guess mutable
             .expect("Failed to ead line");
 
-        let guess: u32 = match guess.trim().parse() {
+        let guess: u32 = match guess.trim().parse() { // shadowing lets us reuse variables
+            // u32 can only contain numerical data
             Ok(num) => num,
             Err(_) => continue,
         };
