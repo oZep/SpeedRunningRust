@@ -18,6 +18,6 @@ Compile your Build using this command:
 Run your Build using:
 ```$ ./target/debug/<FileName> #```
 
-#### OR
+**OR**
 
 Use: ```$ cargo run``` to compile and run in one go!
